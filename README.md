@@ -12,6 +12,28 @@ return [0, 1].
 
 ----------------------------------------------------------------------------------------------------------------
 
+**Problem 94 - Binary Tree Inorder Traversal**
+
+Given a binary tree, return the inorder traversal of its nodes' values.
+
+For example:
+
+Given binary tree [1,null,2,3],
+
+	   1
+
+	    \
+
+	     2
+
+	    /
+
+	   3
+
+return [1,3,2].
+
+----------------------------------------------------------------------------------------------------------------
+
 **Problem 140 - Word Break II**
 
 Given a string s and a dictionary of words dict, add spaces in s to construct a sentence where each word is a valid dictionary word.
@@ -88,17 +110,17 @@ Given nums = [1,3,-1,-3,5,3,6,7], and k = 3.
 
 Window Position -> Max
 
-[1  3  -1] -3  5  3  6  7           	-> 3
+	[1  3  -1] -3  5  3  6  7           	-> 3
 
- 1 [3  -1  -3] 5  3  6  7           	-> 3
+	 1 [3  -1  -3] 5  3  6  7           	-> 3
 
- 1  3 [-1  -3  5] 3  6  7           	-> 5
+	 1  3 [-1  -3  5] 3  6  7           	-> 5
 
- 1  3  -1 [-3  5  3] 6  7           	-> 5
+	 1  3  -1 [-3  5  3] 6  7           	-> 5
 
- 1  3  -1  -3 [5  3  6] 7           	-> 6
+	 1  3  -1  -3 [5  3  6] 7           	-> 6
 
- 1  3  -1  -3  5 [3  6  7]          	-> 7
+	 1  3  -1  -3  5 [3  6  7]          	-> 7
 
 Therefore, return the max sliding window as [3,3,5,5,6,7].
 
