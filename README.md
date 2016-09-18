@@ -26,6 +26,29 @@ A solution is ["cats and dog", "cat sand dog"].
 
 ----------------------------------------------------------------------------------------------------------------
 
+**Problem 145 - Binary Tree Postorder Traversal**
+
+Given a binary tree, return the postorder traversal of its nodes' values.
+
+For example:
+
+Given binary tree {1,#,2,3},
+
+   1
+
+    \
+
+     2
+
+    /
+
+   3
+   
+
+return [3,2,1].
+
+----------------------------------------------------------------------------------------------------------------
+
 **Problem 155 - Min Stack**
 
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
