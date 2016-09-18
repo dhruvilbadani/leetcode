@@ -28,9 +28,25 @@ For example, the 32-bit integer ’11' has binary representation 000000000000000
 
 ----------------------------------------------------------------------------------------------------------------
 
+**Problem 279 - Perfect Squares**
+
+Given a positive integer n, find the least number of perfect square numbers (for example, 1, 4, 9, 16, ...) which sum to n.
+
+For example, given n = 12, return 3 because 12 = 4 + 4 + 4; given n = 13, return 2 because 13 = 4 + 9.
+
+----------------------------------------------------------------------------------------------------------------
+
 **Problem 338 - Counting Bits**
 
 Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
 
 Example:
 For num = 5 you should return [0,1,1,2,1,2].
+
+----------------------------------------------------------------------------------------------------------------
+
+**Problem 279 - Perfect Squares**
+
+Given a positive integer n, find the least number of perfect square numbers (for example, 1, 4, 9, 16, ...) which sum to n.
+
+For example, given n = 12, return 3 because 12 = 4 + 4 + 4; given n = 13, return 2 because 13 = 4 + 9.
