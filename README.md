@@ -60,8 +60,7 @@ Given an array nums, there is a sliding window of size k which is moving from th
 For example,
 Given nums = [1,3,-1,-3,5,3,6,7], and k = 3.
 
-Window position                    		Max
----------------                   		-----
+Window Position -> Max
 
 [1  3  -1] -3  5  3  6  7           	-> 3
 
