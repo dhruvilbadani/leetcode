@@ -135,6 +135,16 @@ For example, the 32-bit integer ’11' has binary representation 000000000000000
 
 ----------------------------------------------------------------------------------------------------------------
 
+**Problem 230 - Kth Smallest Element in a BST**
+
+Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.
+
+Note:
+
+You may assume k is always valid, 1 ≤ k ≤ BST's total elements.
+
+----------------------------------------------------------------------------------------------------------------
+
 **Problem 239 - Sliding Window Maximum**
 
 Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position.
