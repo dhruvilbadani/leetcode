@@ -18,6 +18,20 @@ Write a function to find the longest common prefix string amongst an array of st
 
 ----------------------------------------------------------------------------------------------------------------
 
+**Problem 17 - Letter Combinations of a Phone Number**
+
+Given a digit string, return all possible letter combinations that the number could represent.
+
+A mapping of digit to letters (just like on the telephone buttons) is given below.
+
+![alt tag](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Telephone-keypad2.svg/200px-Telephone-keypad2.svg.png)
+
+Input:Digit string "23"
+
+Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
+
+----------------------------------------------------------------------------------------------------------------
+
 **Problem 94 - Binary Tree Inorder Traversal**
 
 Given a binary tree, return the inorder traversal of its nodes' values.
